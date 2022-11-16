@@ -78,3 +78,15 @@ location2.render();
 location3.render();
 location4.render();
 location5.render();
+
+
+// let salesForm = document.getElementById('salesform');
+// salesForm.addEventListener('submit', addNewCookies);
+// function addNewCookies(event) {
+//   event.preentDefault();
+//   let form = event.target;
+//   let location = form.location.value;
+//   let minHourlyCostumer = form.minHourlyCostumer.value;
+//   let maxHourlyCostumer = form.maxHourlyCostumer.value;
+//   let
+// }
