@@ -186,3 +186,18 @@ table {
   font-size: 18px;
   padding: 0.25rem;
  }
+
+ form {
+  width: max-content;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 1rem;
+  border: 3px solid #606c38;
+  padding: 1rem;
+ }
+
+ label {
+  display: flex;
+  justify-content: space-between;
+ }
